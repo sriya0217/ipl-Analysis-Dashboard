@@ -10,15 +10,15 @@
   •	Power BI: For data cleaning, transformation, and visualization
   •	Dataset: IPL Matches and Deliveries datasets containing match-wise and ball-by-ball data
 3. Approach
-  1. Data Collection
+   *Data Collection
       Used IPL datasets including:
         •	Matches dataset (match-level data)
         •	Deliveries dataset (ball-level data)
-  2. Data Cleaning and Preparation
+   *Data Cleaning and Preparation
       •	Handled missing or null values
       •	Ensured data type consistency
       •	Created calculated columns for runs, wickets, etc.
-3. Data Analysis and Visualization
+   *Data Analysis and Visualization
   Created interactive visuals for the following insights:
     •	🔹 Top 10 and Bottom 10 Batsmen by Total Runs
     •	🔹 Top 10 Bowlers by Total Wickets
