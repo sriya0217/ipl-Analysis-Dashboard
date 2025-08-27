@@ -38,6 +38,7 @@
     •	📊 Teams that win the toss do not always win the match — indicating toss advantage is not guaranteed.
 
 5. Dashboard Snapshot
+   https://github.com/sriya0217/ipl-Analysis-Dashboard/blob/main/ipl_dashboard.png
 
 
 
